@@ -1,0 +1,6 @@
+This folder carries the csv files of the data used in this project and can be found from the following links:
+
+
+• http://data.un.org/Data.aspx?d=ComTrade&f=_l1Code%3a1
+
+• https://zenodo.org/api/records/14106218/ϐiles-archive
